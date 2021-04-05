@@ -1,2 +1,2 @@
 # Covid19-Dashboard
-Covid 19 dashboard based on tabluea 
+Covid 19 dashboard based on tableau
